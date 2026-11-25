@@ -1,13 +1,13 @@
 Claude Code 導入マニュアル
-第1章「Claude Code って何？」
+第11章「Web のアクセスを決める」
 
 全21章の無料マニュアルから、
-1章ずつ動画にしています。
+1章ずつ抜き出しています。
 
-▼ 記事はこちら（第1部）
+▼ 記事はこちら（第2部）
 （@harumi_auto のプロフィールの
 リンクからも読めます）
-https://note.com/harumi_auto/n/ne6b32cebbbbd
+https://note.com/harumi_auto/n/nce4c1e3c1d7f
 
 全文の PDF（無料）は、
 DM で「マニュアル」と
@@ -16,6 +16,3 @@ URL をお返しします。
 
 手動でお返しするので、
 少しお時間をいただくことがあります。
-
-読み上げの声：
-VOICEVOX:白上虎太郎
